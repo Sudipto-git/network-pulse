@@ -1,0 +1,9 @@
+{
+  "uuid": "network-pulse@sudipto",
+  "name": "Network Traffic & Bandwidth Pulse",
+  "description": "Created by Sudipto Paul. Shows live upload/download traffic in the panel and lists bandwidth-heavy processes when nethogs is available.",
+  "author": "Sudipto Paul",
+  "version": 1,
+  "shell-version": ["45", "46"],
+  "url": "https://github.com/Sudipto-git/network-pulse"
+}
