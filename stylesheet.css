@@ -1,0 +1,16 @@
+.network-pulse-box {
+    spacing: 4px;
+    padding: 0 6px;
+}
+
+.network-pulse-box StLabel {
+    font-size: 9pt;
+}
+
+.network-pulse-download {
+    color: #7dd3fc;
+}
+
+.network-pulse-upload {
+    color: #86efac;
+}
